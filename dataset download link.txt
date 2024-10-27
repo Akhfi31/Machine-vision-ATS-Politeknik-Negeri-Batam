@@ -1,1 +1,3 @@
 https://www.kaggle.com/datasets/crawford/emnist/data
+
+NOTE : FILE DIRECTORY IN THE CODE MIGHT BE DIFFRENT FROM ONE PC TO ANOTHER
